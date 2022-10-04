@@ -42,7 +42,7 @@
     border: 3px solid black;
 }
 
-#test1 >P:nth-child(2n){
+#test1 >p:nth-child(2n){
     /*test1의 자식 요소 중 2n번째(짝수) 자식이 p태그가 맞을 경우 선택*/
 font-size: 30;
 }
