@@ -69,7 +69,6 @@ img{
     transform: scale(1.1, 1.1);
                     /* X   Y*/
 }
-
 /* 요소 회전 */
 /* rotate(각도deg) */
 .trans-rotate:hover{
@@ -86,7 +85,7 @@ img{
         perspective(길이)
         - 길이는 원근법 적용 거리
     */
-    
+
 
     transform: perspective(300px) translate3d(50px, 50px, -500px);
                                                   /* x,y,z */
