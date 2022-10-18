@@ -17,9 +17,9 @@
           세로 방향(열), 세로 역방향
 */
 
-flex-direction: row;
+/* flex-direction: row; */
 /* flex-direction: row-reverse; */
-/* flex-direction: column; */
+flex-direction: column;
 /* flex-direction: column-reverse; */
 
 
