@@ -68,7 +68,7 @@ flex-direction: column;
        /* justify : 조정하다
 
         justify-content : 내용을 조정하다.
-        -> main axis 바향으로 내용(item)을 정렬하는 방법을 조정하는 속성
+        -> main axis 방향으로 내용(item)을 정렬하는 방법을 조정하는 속성
         */
 
         /* 중심축 설정 */
@@ -89,6 +89,7 @@ flex-direction: column;
         /* justify-content: space-around; */
 
 
+
         /* space-evenly : item이 main-axis 방향으로 동일한 간격을 가지게 지정
             evenly: 고르게, 골고루 space-around와 달리 좌우 여백도 동일한 간격
         */
@@ -97,7 +98,7 @@ flex-direction: column;
 
         /* space-between : 양 끝의 item을 main-axis 시작/끝 지점에 붙인 상태에서
                             item들이 동일한 간격을 가지게 지정하는 것 */
-        justify-content: space-between;
+        /* justify-content: space-between; */
     
     
     /**************************/
